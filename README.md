@@ -18,3 +18,23 @@
 1. 경로 주어졌을 때 전송 전력 최적화
 2. 전송 전력 주어졌을 때 경로 최적화
 3. 처리율 최솟값의 최대화 (1+2 -> 3) 
+
+
+
+<임의의 노드>
+
+![image](https://user-images.githubusercontent.com/59918820/126115274-7943ccb2-0eb7-4616-b951-01d8d23cf888.png)
+
+<클러스터 개수 & hub 노드 표현>
+
+![image](https://user-images.githubusercontent.com/59918820/126115361-1fe05f6c-4785-4f07-b73d-bc5b38cd29d0.png)
+
+<노드 연결 상태>
+
+![image](https://user-images.githubusercontent.com/59918820/126115596-d5515289-8f3c-4283-b3b8-0f4f0d8e9a16.png)
+
+<행렬로 표현된 노드 연결 상태>
+
+![image](https://user-images.githubusercontent.com/59918820/126115657-ea6dd18c-89fe-4bce-9611-a877e507918b.png)
+
+
